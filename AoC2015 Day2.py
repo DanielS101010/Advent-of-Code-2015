@@ -1,5 +1,6 @@
 file = open("Day2 input.txt", "r")
 lines = file.readlines()
+file.close()
 
 size_wrapping_paper = 0
 length_ribbon = 0
